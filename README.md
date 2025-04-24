@@ -1,4 +1,4 @@
-[click here to see deployed foundry smart contract](https://sepolia-blockscout.lisk.com/address/0x91054bc54e68e70df6ad38d8ae8a3dd87c1382b1)
+[click here to see deployed foundry smart contract](https://sepolia-blockscout.lisk.com/address/0x91054bc54e68e70df6ad38d8ae8a3dd87c1382b1?tab=contract)
 
 deploy
 
